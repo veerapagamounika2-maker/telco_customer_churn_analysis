@@ -30,12 +30,6 @@ Kaggle Telco Customer Churn Dataset (7,000+ records)
 - High monthly charges increase churn risk
 - Electronic check users churn more
 
-## Project Files
-- SQL Queries: `/churn analysis (sql).pdf`
-- ML Notebook: `/churn.ipynb`
-- Power BI File: `/telco_churn_dashboard.pdf`
-- Dataset: `/data/telco_churn.csv`
-
 ## Business Impact
 This analysis helps telecom companies identify high-risk customers and take proactive retention actions.
 
